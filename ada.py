@@ -9,3 +9,4 @@ def ada():
     print(title_case)
     print(upper_case)
     print(tabbed_lower_case)
+ada() 
