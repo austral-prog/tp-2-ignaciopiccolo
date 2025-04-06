@@ -8,3 +8,4 @@ def change():
     print(int(money))
     print(pesos)
     print(centavos)
+change()
